@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Mobile Access & Preview",
+  "description": "Guide and mobile companion to access Google AI Studio and preview your live application directly on your phone or mobile browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
